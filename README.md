@@ -1,5 +1,5 @@
 # Sample Collection App
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23077056.svg)](https://doi.org/10.5281/zenodo.23077056)
 [![Platform: AppSheet](https://img.shields.io/badge/Platform-AppSheet-blue.svg)](https://www.appsheet.com)
 
 > An AppSheet mobile and web application designed to support field sample collection for passive eDNA and plankton net sampling.
