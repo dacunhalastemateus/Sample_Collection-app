@@ -27,5 +27,16 @@ This app supports field sample collection for passive eDNA and plankton net samp
 * **Proximity-Based Pre-Filling:** Auto-fills variables based on GPS proximity to pre-existing location data.
 * **Automated Batch Processing:** Automatic sample copying and bulk editing managed by AppSheet Bots based on researcher protocols.
 * **Sequential Sample Naming:** Standardized naming logic and sequences paired with independent `UNIQUEID("UUID")` keys.
+
+---
+
+## 📖 Citation
+
+If you use this application or adapt its structure for your research, please cite it as follows:
+
+**DOI:** [10.5281/zenodo.23077056](https://doi.org/10.5281/zenodo.23077056)
+
+```text
+Sample Collection App [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.23077056](https://doi.org/10.5281/zenodo.23077056)
   
   
