@@ -6,6 +6,8 @@
 
 [🚀 **Open the App in Browser**](https://www.appsheet.com/start/46dc33df-247e-4086-80cc-35d65848b817)
 
+[💾 **Copy the App**](https://www.appsheet.com/Template/AppDef?appName=Sample_Collection-680552420-26-09-14&utm_source=share_app_link)
+
 ---
 
 ## 📌 Overview
