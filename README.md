@@ -23,10 +23,11 @@ This app supports field sample collection for passive eDNA and plankton net samp
 ## ✨ Key Features
 
 * **Multilingual Support:** Built-in multi-language translation method managed through the `'Translations'` table.
-* **Full Access Management:** Granular security filters managed through the `'Access Management'` table.
+* **Full Access Management:** Security filters managed through the `'Access Management'` table.
 * **Proximity-Based Pre-Filling:** Auto-fills variables based on GPS proximity to pre-existing location data.
 * **Automated Batch Processing:** Automatic sample copying and bulk editing managed by AppSheet Bots based on researcher protocols.
 * **Sequential Sample Naming:** Standardized naming logic and sequences paired with independent `UNIQUEID("UUID")` keys.
+* **Precise location** corrent GPS-based Location description pre-filling of `Geographic_Origin` and `Collection_Location` variables by filtering existing data in the `UIMS` datasheet.
 
 ---
 
