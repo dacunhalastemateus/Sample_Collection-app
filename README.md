@@ -5,21 +5,21 @@
 
 > An AppSheet mobile and web application designed to support field sample collection for passive eDNA and plankton net sampling.
 
-[🚀 **Open the App in Browser**](https://www.appsheet.com/start/46dc33df-247e-4086-80cc-35d65848b817) &nbsp;|&nbsp; [💾 **Copy the App Template**](https://www.appsheet.com/Template/AppDef?appName=Sample_Collection-680552420-26-09-14&utm_source=share_app_link)
+[ **Open the App in Browser**](https://www.appsheet.com/start/46dc33df-247e-4086-80cc-35d65848b817) &nbsp;|&nbsp; [💾 **Copy the App Template**](https://www.appsheet.com/Template/AppDef?appName=Sample_Collection-680552420-26-09-14&utm_source=share_app_link)
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This app supports field sample collection for passive eDNA and plankton net samples conducted by researchers in our lab, designed to accommodate their pre-existing horizontal data structure.
 
-## 🎯 Objectives
+##  Objectives
 
 * **Streamline Fieldwork:** Facilitate and standardize the sample collection process.
 * **Reduce Errors:** Minimize human entry mistakes and reduce time consumption in the field.
 * **Enable Collaboration:** Allow multiple teams to collect and process sample data simultaneously.
 
-## ✨ Key Features
+##  Key Features
 
 * **Multilingual Support:** Built-in multi-language translation method managed through the `'Translations'` table.
 * **Full Access Management:** Security filters managed through the `'Access Management'` table.
