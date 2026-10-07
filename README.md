@@ -1,6 +1,6 @@
 # Sample Collection App
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23077056.svg)](https://doi.org/10.5281/zenodo.23077056)
+[![DOI](https://zenodo.org/badge/1399273058.svg)](https://doi.org/10.5281/zenodo.23201718)
 [![Platform: AppSheet](https://img.shields.io/badge/Platform-AppSheet-blue.svg)](https://www.appsheet.com)
 
 > An AppSheet mobile and web application designed to support field sample collection for passive eDNA and plankton net sampling.
@@ -30,7 +30,7 @@ This app supports field sample collection for passive eDNA and plankton net samp
 
 ---
 
-## ⚙️ Setup & Customization
+##  Setup & Customization
 
 Follow these three steps to deploy and adapt the app to your needs:
 
@@ -40,13 +40,12 @@ Follow these three steps to deploy and adapt the app to your needs:
 
 ---
 
-## 📖 Citation
+##  Citation
 
 If you use this application or adapt its structure for your research, please cite it as follows:
 
-**DOI:** [10.5281/zenodo.23077056](https://doi.org/10.5281/zenodo.23077056)
+**DOI:** [10.5281/zenodo.23201718](https://doi.org/10.5281/zenodo.23201718)
 
 ```text
-Sample Collection App [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.23077056](https://doi.org/10.5281/zenodo.23077056)
-
+Sample Collection App [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.23201718](https://doi.org/10.5281/zenodo.23201718)
 
